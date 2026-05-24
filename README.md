@@ -2,7 +2,7 @@
 
 A single-page, plain-English dashboard for the **August 18, 2026 primary** and **November 3, 2026 general election** in Florida.
 
-**Live site:** _add your GitHub Pages URL here once published_
+**Live site:** _https://anay2468.github.io/florida-voter-guide/_
 
 ## What's covered
 
